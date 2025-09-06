@@ -1,7 +1,3 @@
-Claro! Vamos primeiro **ajustar e formatar** a descrição do seu projeto PetVita para deixá-la mais clara, profissional e bem organizada — mantendo todas as informações que você forneceu.
-
----
-
 # 🐾 PetVita
 
 **Sistema de Gerenciamento para Clínicas Veterinárias**
